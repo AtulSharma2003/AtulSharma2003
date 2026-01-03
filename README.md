@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atul Sharma<br>B.Tech CSE graduate (2025) passionate about turning <br>data into insights as a Data Analyst or Data Scientist.Skilled in SQL, Python, Excel, and Power BI—building dashboards and ML models. Open to entry-level roles in Delhi NCR or remote!<br>
+Atul Sharma<br>B.Tech CSE graduate (2025) passionate about turning data into insights as a Data Analyst or Data Scientist.Skilled in SQL, Python, Excel, and Power BI—building dashboards and ML models. Open to entry-level roles in Delhi NCR or remote!<br>
 
 
 ## 🌐 Socials:
